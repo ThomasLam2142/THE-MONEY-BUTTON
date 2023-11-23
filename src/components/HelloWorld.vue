@@ -24,7 +24,7 @@
     </div>
   </div>
   
-
+  <audio src="src\audio\audio.mp3" controls autoplay style="display: none;"></audio>
   
 </template>
 
