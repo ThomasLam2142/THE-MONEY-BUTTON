@@ -11,11 +11,9 @@
     </div>
 
     <div class="button-container">
-      <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY">
+      <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY" >
         <button class="big-button" >
-          <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY">
             GIMME YOUR MONEY
-          </a>
         </button>
       </a>
     </div>
