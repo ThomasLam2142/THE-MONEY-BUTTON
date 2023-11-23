@@ -11,9 +11,13 @@
     </div>
 
     <div class="button-container">
-      <button class="big-button">
-        <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY">GIMME YOUR MONEY</a>
-      </button>
+      <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY">
+        <button class="big-button" >
+          <a href="https://buy.stripe.com/aEUcOv0zsgcWbbafYY">
+            GIMME YOUR MONEY
+          </a>
+        </button>
+      </a>
     </div>
 
 
@@ -40,6 +44,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: purple;
 }
 
 .big-button {
